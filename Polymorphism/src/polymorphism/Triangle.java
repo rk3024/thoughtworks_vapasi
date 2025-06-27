@@ -1,3 +1,5 @@
+package polymorphism;
+
 public class Triangle extends Shape{
     private double side1;
     private double side2;

@@ -1,7 +1,9 @@
+package polymorphism;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class ShapeCalculator {
+public class ShapeCalculatorMain {
     public static void main(String[] args) {
         Shape cir = new Circle(2);
         Shape rec = new Rectangle(4,3);
